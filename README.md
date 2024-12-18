@@ -35,7 +35,7 @@ ____________________________________________________
 2. Navigate to the Project Directory:
 
 ```bash
-  cd AirBnb Clone  
+  cd backend  
 ```
 
 3. Run the server:
